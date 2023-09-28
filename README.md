@@ -1,1 +1,2 @@
-# DS_kaggle_binary_classification
+# Data analysis and model building from Kaggle.
+https://www.kaggle.com/competitions/spaceship-titanic
